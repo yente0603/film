@@ -32,4 +32,4 @@ __the film shooted by [@photoy.x](http://www.instagram.com/photoy.x)__
 - [ ] Kodak Ultramax 400 (2025/07)   
 
 
-*Note: ';' is tthe motion film
+*Note: ';' is the motion film
