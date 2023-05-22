@@ -1,5 +1,5 @@
 ---
-author: \@photoy.x
+author: [\@photoy.x](http://www.instagram.com/photoy.x) 
 date: 2023'05 (0506, 0510)
 ---
 
