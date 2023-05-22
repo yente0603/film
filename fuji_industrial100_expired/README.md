@@ -3,7 +3,7 @@ Date: 2023'05 (0506, 0510)
 
 
 # Fuji Industrial 100  
-> _expired film from 1997_
+> _expired film from 1997_  
 > _camera: Canon AV-1_
 
 
