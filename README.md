@@ -1,8 +1,5 @@
 __the film shooted by @photoy.x__
-
-
 ---
-Camera: 
 * iPhone 12 Pro 
 * RICOH MYPORT ZOOM 320ps
 * Canon AV-1
@@ -20,11 +17,11 @@ Camera:
 - [ ] 5219 500; / 2023’05 (~5/20)
 
 
-/shooting  
+/ shooting  
 - [ ] Kodak gold 200 / 2023’05
 
 
-/exising stocks  
+/ exising stocks  
 - [ ] Kodak 200T;  
 - [ ] Lomography 800  
 - [ ] Fuji HR400 (expired)  
