@@ -1,4 +1,4 @@
-Photographer: [@photoy.x](http://www.instagram.com/photoy.x>)  
+Photographer: [@photoy.x](http://www.instagram.com/photoy.x)  
 Date: 2023'05 (0506, 0510)
 
 
