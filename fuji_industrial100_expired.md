@@ -1,7 +1,6 @@
----
-author: <http://www.instagram.com/photoy.x> 
+author: [@photoy.x](http://www.instagram.com/photoy.x>)
 date: 2023'05 (0506, 0510)
----
+
 
 # Fuji Industrial 100 
 _expired film_
