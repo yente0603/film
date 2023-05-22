@@ -23,7 +23,7 @@ Camera:
 
 
 /exising stocks  
-- [ ] odak 200T;  
+- [ ] Kodak 200T;  
 - [ ] Lomography 800  
 - [ ] Fuji HR400 (expired)  
 - [ ] Fuji industrial 100 (expired)  
