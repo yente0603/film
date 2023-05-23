@@ -19,11 +19,11 @@ __the film shooted by [@photoy.x](http://www.instagram.com/photoy.x)__
 - [ ] 5219 500; / 2023’05 (~5/20)
 
 
-/ shooting  
+* shooting  
 - [ ] Kodak gold 200 / 2023’05
 
 
-/ exising stocks  
+* exising stocks  
 - [ ] Kodak 200T;  
 - [ ] Lomography 800  
 - [ ] Fuji HR400 (expired)  
