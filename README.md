@@ -12,7 +12,7 @@ __the film shooted by [@photoy.x](http://www.instagram.com/photoy.x)__
 - [X] Kodak double X; / 2022’09-2022’11  
 - [X] Kodak 500T; / 2022’11-2023’01  
 - [X] YAMA 400 / 2022’08-2023’02  
-- [X] Sunny side-up250D; / 2023’02  
+- [X] Sunny side-up 250D; / 2023’02  
 - [X] Santacolor 100 / 2023’02-2023’04  
 - [X] ILFORD HP5+ 400 / 2023’03-2023’04  
 - [X] Fuji industrial 100 (expired) / 2023’05 (0506, 0510)  
